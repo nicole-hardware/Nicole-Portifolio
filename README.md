@@ -1,12 +1,12 @@
-# Nicole-Portifolio
-👩🏽‍🔧 Técnica em Eletrônica | Estudante de Ciência da Computação (PUC Minas)  
-💻 Assistente de Engenharia na Pradolux - Luxparts  
-🔧 Projetista de Hardware | Designer de PCB | Entusiasta de sistemas embarcados
+## Portifólio de Nicole
 
-Atuo com desenvolvimento de circuitos eletrônicos, design de placas (PCB), revisão de esquemáticos e programação para microcontroladores. Tenho experiência prática com processos de manufatura eletrônica (SMT e PTH), prototipagem e simulação de projetos usando Proteus.
+Técnica em Eletrônica e estudante de Ciência da Computação na PUC Minas, com atuação no setor automotivo. Tenho experiência em desenvolvimento de hardware, com foco em projeto de circuitos, design de PCB e revisão de esquemáticos eletrônicos.
 
-Estou reunindo aqui alguns dos meus projetos — tanto acadêmicos quanto pessoais — para compartilhar conhecimento, aprender mais e contribuir com a comunidade.
+Utilizo o Proteus para desenvolvimento completo de projetos, incluindo esquemáticos, layout de placas e simulações. Também atuo com processos de manufatura eletrônica (SMT e PTH) e programação de microcontroladores.
 
-🎓 Atualmente também curso Gestão de Projetos pela USP (Veduca).
+Atualmente, estou cursando Gestão de Projetos pelo Veduca, em parceria com a USP, para ampliar minha formação em organização, planejamento e execução técnica.
 
-📫 Contato: [nicoleengsoft@gmail.com](mailto:nicoleengsoft@gmail.com)
+Tenho interesse em sistemas embarcados, automação e soluções aplicadas à indústria.
+
+**Localização:** Poços de Caldas – MG  
+**Contato:** nicoleengsoft@gmail.com
